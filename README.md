@@ -1,6 +1,6 @@
 # PowerProxy
 
-![PowerShell logo with two circuits on the left connecting to it and two circuits exiting it on the right.  Below it is the word "PowerProxy"](https://raw.githubusercontent.com/MidwintersTomb/MediaFiles/refs/heads/main/Pictures/PowerShot.png)
+![PowerShell logo with two circuits on the left connecting to it and two circuits exiting it on the right.  Below it is the word "PowerProxy"](https://raw.githubusercontent.com/MidwintersTomb/MediaFiles/refs/heads/main/Pictures/PowerProxy.png)
 
 ## A PowerShell script using .Net functions to run a SOCKS5 proxy server
 
